@@ -12,7 +12,7 @@ class App extends Component {
       <Router>
         <Switch>
           <Route exact path="/" component={Albums} />
-          <Route path="/album" component={SmallAlbum} />
+          <Route path="/album:id"component={SmallAlbum} />
           <Route path="/photo" component={Photos} />
         </Switch>
       </Router>

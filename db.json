@@ -1,0 +1,228 @@
+{
+  "albums": [
+    {
+      "id": 2,
+      "coverPhoto": "http://nameberry.com/blog/wp-content/uploads/2011/11/sleepinglatino-283x412.jpg",
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSpQABohHYFKHtxCPNGZQw3bt-uvchor61DPKeP5k4HKpTH7Fog",
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "coverPhoto": "http://img.thrfun.com/img/079/150/pit_bull_puppy_l1.jpg",
+      "name": "Pets"
+    },
+    {
+      "id": 5,
+      "coverPhoto": "http://www.minitalia.is/uploads/4/6/3/4/4634683/4653333_orig.jpg",
+      "name": "Travel"
+    },
+    {
+      "id": 6,
+      "coverPhoto": "http://runthetrap.com/wp-content/uploads/2015/03/umf14a_075.jpg",
+      "name": "Concerts"
+    },
+    {
+      "name": "Animals",
+      "coverPhoto": "http://r.ddmcdn.com/w_830/s_f/o_1/cx_98/cy_0/cw_640/ch_360/APL/uploads/2015/07/cecil-AP463227356214-1000x400.jpg",
+      "id": 7
+    }
+  ],
+  "photos": [
+    {
+      "id": 7,
+      "name": "latin",
+      "url": "http://www.agmisgpn.org/sites/default/files/Latin%20Am%20kids.jpg",
+      "albumId": 2
+    },
+    {
+      "id": 8,
+      "name": "chocolate",
+      "url": "http://www.incultureparent.com/wp-content/uploads/2013/04/2013aprICP-chocolate.jpg",
+      "albumId": 2
+    },
+    {
+      "id": 9,
+      "name": "turner",
+      "url": "http://i2.cdn.turner.com/dr/hln/www/release/sites/default/files/imagecache/textarticle_640/2014/03/12/youtube.jpg",
+      "albumId": 2
+    },
+    {
+      "id": 10,
+      "name": "fault",
+      "url": "https://s-media-cache-ak0.pinimg.com/originals/00/69/90/006990d04f8dd925d85f336bccd3dd4f.jpg",
+      "albumId": 2
+    },
+    {
+      "id": 11,
+      "name": "us",
+      "url": "http://assets-s3.usmagazine.com/uploads/assets/articles/82136-new-gerber-baby-is-7-month-old-girl-named-grace/1421876680_grace-gerber-baby-zoom.jpg",
+      "albumId": 2
+    },
+    {
+      "id": 12,
+      "name": "face",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Baby_Face.JPG",
+      "albumId": 2
+    },
+    {
+      "id": 13,
+      "name": "static",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSpQABohHYFKHtxCPNGZQw3bt-uvchor61DPKeP5k4HKpTH7Fog",
+      "albumId": 3
+    },
+    {
+      "id": 14,
+      "name": "family",
+      "url": "http://www.renaissanceranchutah.com/wp-content/uploads/2015/10/Addiction-Support-Program-Family.jpg",
+      "albumId": 3
+    },
+    {
+      "id": 15,
+      "name": "mamber",
+      "url": "https://aos.iacpublishinglabs.com/question/aq/700px-394px/roles-family-member_df2c6cebbba36857.jpg?domain=cx.aos.ask.com",
+      "albumId": 3
+    },
+    {
+      "id": 16,
+      "name": "beach",
+      "url": "http://f.tqn.com/y/spanish/1/W/I/U/dominican-family-beach.jpg",
+      "albumId": 3
+    },
+    {
+      "id": 17,
+      "name": "commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Family_of_Barack_Obama.jpg",
+      "albumId": 3
+    },
+    {
+      "id": 18,
+      "name": "alba",
+      "url": "http://cdn02.cdn.justjared.com/wp-content/uploads/2012/06/alba-saturday/jessica-alba-saturday-family-outing-09.jpg",
+      "albumId": 3
+    },
+    {
+      "id": 19,
+      "name": "pit",
+      "url": "http://www.pitbull411.com/images/dixie1_pit_bull.jpg",
+      "albumId": 4
+    },
+    {
+      "id": 20,
+      "name": "bull",
+      "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuM6X4gXaFSAG3yEVgpxw4ezO-kDPiS8hQMw3nTKsue03aQGjWIg",
+      "albumId": 4
+    },
+    {
+      "id": 21,
+      "name": "dogs",
+      "url": "https://i.ytimg.com/vi/zK9UADwTLFg/hqdefault.jpg",
+      "albumId": 4
+    },
+    {
+      "id": 22,
+      "name": "puppy",
+      "url": "https://i.ytimg.com/vi/5wdgrEGE50Q/maxresdefault.jpg",
+      "albumId": 4
+    },
+    {
+      "id": 23,
+      "name": "cute",
+      "url": "http://www.cutepuppies.net/sites/cutepuppies.net/files/imagecache/default/images/bubby.jpg",
+      "albumId": 4
+    },
+    {
+      "id": 24,
+      "name": "aholic",
+      "url": "http://dogsaholic.com/wp-content/uploads/2015/04/American-Amstaff.jpg",
+      "albumId": 4
+    },
+    {
+      "id": 25,
+      "name": "veiw",
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/63/d5/0e/nice-view.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 26,
+      "name": "kauai",
+      "url": "http://hawaii.kauai.com/blog/wp-content/uploads/2012/01/Kauai-017.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 27,
+      "name": "trinidad",
+      "url": "http://www.beach-on-map.com/img/8/trinidad-and-tobago-trinidad-maracas-bay-beach-palms.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 28,
+      "name": "bridge",
+      "url": "https://pixabay.com/static/uploads/photo/2015/11/07/11/37/golden-gate-bridge-1031321_960_720.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 29,
+      "name": "pb",
+      "url": "https://s3.amazonaws.com/citybuzz/2015/11/pacific-beach-san-diego-city/pacific-beach-san-diego-3.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 30,
+      "name": "venice",
+      "url": "http://tamesoperadora.com/wp-content/uploads/2015/08/Venice-Italy-city-buildings-sea-boat-canal-sky-clouds_2560x1440.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 31,
+      "name": "boston",
+      "url": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2014/02/03/BostonGlobe.com/Metro/Images/ed59cf5ce57844b383357ef781d21d37-ed59cf5ce57844b383357ef781d21d37-0.jpg",
+      "albumId": 6
+    },
+    {
+      "id": 32,
+      "name": "vegas",
+      "url": "http://www.vegasnews.com/wp-content/uploads/mpiEKP_09_27_15_LIB_brandonkillers_day3_kabik-10-588.jpg",
+      "albumId": 6
+    },
+    {
+      "id": 33,
+      "name": "killers",
+      "url": "https://s-media-cache-ak0.pinimg.com/originals/57/93/98/579398081a90a0fc388712bc970a36eb.jpg",
+      "albumId": 6
+    },
+    {
+      "id": 34,
+      "name": "roast",
+      "url": "http://media.gettyimages.com/photos/hot-hot-heat-during-the-1067-kroq-weenie-roast-concert-2005-show-at-picture-id105714353?s=594x594",
+      "albumId": 6
+    },
+    {
+      "id": 35,
+      "name": "umf",
+      "url": "https://umfworldwide.com/wp-content/uploads/2016/09/japan-rukes-news.jpg",
+      "albumId": 6
+    },
+    {
+      "id": 36,
+      "name": "",
+      "url": "http://thekey.xpn.org/aatk/files/2012/08/johnlegend.jpg",
+      "albumId": 6
+    },
+    {
+      "name": "Husky",
+      "url": "http://res.cloudinary.com/the-iron-yard/image/upload/v1478109208/grqgvwmays0muz7mtdno.jpg",
+      "albumId": 4,
+      "id": 40
+    },
+    {
+      "name": "Husky 2",
+      "url": "http://res.cloudinary.com/the-iron-yard/image/upload/v1478109265/v8nn0ydeynzg0gkwlbjx.jpg",
+      "albumId": 4,
+      "id": 41
+    }
+  ]
+}

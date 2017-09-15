@@ -49,16 +49,34 @@ p {
   font-size: xx-large;
 }
 
-.album {
-  border: 1px solid red;
-  width: 20%;
+.album-list {
   margin:30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.album-cover {
+  list-style-type: none;
+}
+
+.album-cover img {
+  height: 200px;
+  width: 200px;
 }
 
 .left-nav {
-  border: 1px solid red;
   width: 20%;
   background-color: gray;
+  display: grid;
+}
+
+.left-nav a{
+  text-decoration-line: none;
+  color: black;
+}
+
+.small-album {
+  width: -webkit-fill-available;
 }
 
 .test {
@@ -69,4 +87,47 @@ p {
   margin-bottom: 15px;
   box-shadow: 2px 2px 2px 3px;
   padding: 5px 0px;
+}
+
+.test:hover{
+  box-shadow: 2px 2px 2px 3px seagreen; 
+}
+
+.photo-tab {
+  border: 1px solid green;
+}
+
+.photo-tab a {
+  text-decoration-line: none;
+}
+
+.photo-tab li {
+  list-style-type: none;
+}
+
+h5 {
+  margin: 0;
+}
+
+.photo-wrap {
+  text-align: center;
+  background-color: gray;
+}
+
+.back-button {
+  position: absolute;
+  margin: 30px;
+}
+
+button a {
+  text-decoration-line: none;
+  color: black;
+}
+
+.photo-head {
+  border: 1px solid red;
+}
+
+.photo-box {
+  border: 1px solid black;
 }
