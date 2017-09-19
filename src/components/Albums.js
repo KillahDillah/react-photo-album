@@ -1,18 +1,13 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
-import data from '../db.json'
+import {getAlbums} from '../actions/albums';
+import {connect} from 'react-redux';
 
 
 class Albums extends Component {
 
-state={
-  albums:[]
-}
-
 componentWillMount(){
-  this.setState({
-    albums:data.albums
-  })
+  getAlbums()
 }
 
   render() {
@@ -21,18 +16,23 @@ componentWillMount(){
         <div className="album-header">
           <p> My Albums </p>
         </div>
-        <div className="album">
-        {this.state.albums.map(album=>(
-          <li className="album-cover"><Link to={"/album" + album.id}><img src={album.coverPhoto} /></Link></li>
-          ))
-        }
-        </div>
-        <div>
-        {this.props.children}
+        <div className="album-list">
+          {this.props.albums.map(album=>(
+            <li className="album-cover"><Link to={"/album/"+album.id}>
+              <img src={album.coverPhoto} />
+              <h5>{album.name}</h5>
+              </Link></li>
+            ))}
         </div>
       </div>
     )
   }
 }
 
-export default Albums
+function appStateToProps(appState) {
+  return {
+    albums: appState.albums
+  }
+}
+
+export default connect (appStateToProps)(Albums)

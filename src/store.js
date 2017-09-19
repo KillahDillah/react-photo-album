@@ -1,7 +1,6 @@
 import {createStore} from 'redux';
-import photoReducer from './reducers/photoReducer';
+import albumReducer from './reducers/albumReducer';
 
-const store=createStore(photoReducer);
-
+const store=createStore(albumReducer)
 
 export default store

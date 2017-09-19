@@ -1,228 +1,160 @@
 {
-  "albums": [
+  "albums": [{
+      "id": 1,
+      "coverPhoto": "http://ghk.h-cdn.co/assets/15/33/980x490/landscape-1439490128-plants.jpg",
+      "name": "Plants"
+    },
     {
       "id": 2,
-      "coverPhoto": "http://nameberry.com/blog/wp-content/uploads/2011/11/sleepinglatino-283x412.jpg",
-      "name": "Kids"
-    },
-    {
-      "id": 3,
-      "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSpQABohHYFKHtxCPNGZQw3bt-uvchor61DPKeP5k4HKpTH7Fog",
-      "name": "Family"
-    },
-    {
-      "id": 4,
-      "coverPhoto": "http://img.thrfun.com/img/079/150/pit_bull_puppy_l1.jpg",
-      "name": "Pets"
-    },
-    {
-      "id": 5,
-      "coverPhoto": "http://www.minitalia.is/uploads/4/6/3/4/4634683/4653333_orig.jpg",
+      "coverPhoto": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/08/12/amsterdam-gabled-houses.jpg",
       "name": "Travel"
     },
     {
-      "id": 6,
-      "coverPhoto": "http://runthetrap.com/wp-content/uploads/2015/03/umf14a_075.jpg",
-      "name": "Concerts"
+      "id": 3,
+      "coverPhoto": "http://i2.cdn.cnn.com/cnnnext/dam/assets/150724115051-8-super-43.jpg",
+      "name": "Burning Man"
     },
     {
-      "name": "Animals",
-      "coverPhoto": "http://r.ddmcdn.com/w_830/s_f/o_1/cx_98/cy_0/cw_640/ch_360/APL/uploads/2015/07/cecil-AP463227356214-1000x400.jpg",
-      "id": 7
+      "id": 4,
+      "coverPhoto": "http://news.nationalgeographic.com/content/dam/news/photos/000/755/75552.ngsversion.1422285553360.adapt.1900.1.jpg",
+      "name": "Animals"
+    },
+    {
+      "id": 5,
+      "coverPhoto": "https://d1i1yzt443r6g2.cloudfront.net/wp-content/uploads/2015/09/Tears-of-Joy-alex-grey.jpg",
+      "name": "Art"
+    },
+    {
+      "id": 6,
+      "coverPhoto": "http://www.billboard.com/files/media/the-beatles-bw-portrait-1967-billboard-1548.jpg",
+      "name": "Beatles"
     }
   ],
-  "photos": [
-    {
+  "photos": [{
       "id": 7,
-      "name": "latin",
-      "url": "http://www.agmisgpn.org/sites/default/files/Latin%20Am%20kids.jpg",
+      "name": "London",
+      "url": "http://littleatoms.com/sites/default/files/styles/imagedetail/public/post/image/london.png",
       "albumId": 2
     },
     {
       "id": 8,
-      "name": "chocolate",
-      "url": "http://www.incultureparent.com/wp-content/uploads/2013/04/2013aprICP-chocolate.jpg",
+      "name": "Munich",
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/bb/e1/d7/caption.jpg",
       "albumId": 2
     },
     {
       "id": 9,
-      "name": "turner",
-      "url": "http://i2.cdn.turner.com/dr/hln/www/release/sites/default/files/imagecache/textarticle_640/2014/03/12/youtube.jpg",
+      "name": "Iceland",
+      "url": "https://www.icelandprocruises.com/media/img/gallery/home/0002-gallery-iceland-waterfall-1.jpg",
       "albumId": 2
     },
     {
       "id": 10,
-      "name": "fault",
-      "url": "https://s-media-cache-ak0.pinimg.com/originals/00/69/90/006990d04f8dd925d85f336bccd3dd4f.jpg",
-      "albumId": 2
-    },
-    {
-      "id": 11,
-      "name": "us",
-      "url": "http://assets-s3.usmagazine.com/uploads/assets/articles/82136-new-gerber-baby-is-7-month-old-girl-named-grace/1421876680_grace-gerber-baby-zoom.jpg",
-      "albumId": 2
-    },
-    {
-      "id": 12,
-      "name": "face",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Baby_Face.JPG",
+      "name": "Chile",
+      "url": "http://www.bakermckenzie.com/-/media/images/locations/chile1.jpg",
       "albumId": 2
     },
     {
       "id": 13,
-      "name": "static",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSpQABohHYFKHtxCPNGZQw3bt-uvchor61DPKeP5k4HKpTH7Fog",
+      "name": "burn 1",
+      "url": "http://i2.cdn.cnn.com/cnnnext/dam/assets/160907084704-burning-man-art-cars-5-super-43.jpg",
       "albumId": 3
     },
     {
       "id": 14,
-      "name": "family",
-      "url": "http://www.renaissanceranchutah.com/wp-content/uploads/2015/10/Addiction-Support-Program-Family.jpg",
+      "name": "2016 Temple",
+      "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/08/30/1113a82f-2be1-477a-9a8c-2d6438e9b8bd/resize/620x465/52085bad647019626eed85fd81377063/2016-08-30t164900z-284041523-s1aetylimmab-rtrmadp-3-usa-burning-man.jpg",
       "albumId": 3
     },
     {
       "id": 15,
-      "name": "mamber",
-      "url": "https://aos.iacpublishinglabs.com/question/aq/700px-394px/roles-family-member_df2c6cebbba36857.jpg?domain=cx.aos.ask.com",
+      "name": "Suits",
+      "url": "http://www.scottlondon.com/photography/wp-content/uploads/2014/01/scott_london_2733.jpg",
       "albumId": 3
     },
     {
       "id": 16,
-      "name": "beach",
-      "url": "http://f.tqn.com/y/spanish/1/W/I/U/dominican-family-beach.jpg",
+      "name": "2016 Man Burn",
+      "url": "http://assets.nydailynews.com/polopoly_fs/1.2777747.1473007025!/img/httpImage/image.jpg_gen/derivatives/gallery_1200/burning-man-2016.jpg",
       "albumId": 3
     },
     {
       "id": 17,
-      "name": "commons",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Family_of_Barack_Obama.jpg",
+      "name": "2011 Temple",
+      "url": "http://www.youredm.com/wp-content/uploads/2016/02/burning-man.gif",
       "albumId": 3
     },
     {
       "id": 18,
-      "name": "alba",
-      "url": "http://cdn02.cdn.justjared.com/wp-content/uploads/2012/06/alba-saturday/jessica-alba-saturday-family-outing-09.jpg",
+      "name": "Aerial View",
+      "url": "http://images.adsttc.com/media/images/55cd/a2c5/e58e/ceb4/5b00/00e5/large_jpg/15106090680_6b60056b3c_o.jpg?1439539884",
       "albumId": 3
     },
     {
       "id": 19,
-      "name": "pit",
-      "url": "http://www.pitbull411.com/images/dixie1_pit_bull.jpg",
+      "name": "shiba",
+      "url": "http://static.ddmcdn.com/en-us/apl/breedselector/images/breed-selector/dogs/breeds/shiba-inu_03_lg.jpg",
       "albumId": 4
     },
     {
       "id": 20,
-      "name": "bull",
-      "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuM6X4gXaFSAG3yEVgpxw4ezO-kDPiS8hQMw3nTKsue03aQGjWIg",
+      "name": "macaw",
+      "url": "https://fthmb.tqn.com/3RicUOeBtlbkdOlMWeYSKFON3Kk=/1280x853/filters:no_upscale():fill(transparent,1)/about/military-macaw-159564769-resized-56a0a1335f9b58eba4b245eb.jpg",
       "albumId": 4
     },
     {
       "id": 21,
-      "name": "dogs",
-      "url": "https://i.ytimg.com/vi/zK9UADwTLFg/hqdefault.jpg",
-      "albumId": 4
-    },
-    {
-      "id": 22,
-      "name": "puppy",
-      "url": "https://i.ytimg.com/vi/5wdgrEGE50Q/maxresdefault.jpg",
-      "albumId": 4
-    },
-    {
-      "id": 23,
-      "name": "cute",
-      "url": "http://www.cutepuppies.net/sites/cutepuppies.net/files/imagecache/default/images/bubby.jpg",
-      "albumId": 4
-    },
-    {
-      "id": 24,
-      "name": "aholic",
-      "url": "http://dogsaholic.com/wp-content/uploads/2015/04/American-Amstaff.jpg",
+      "name": "bunnies",
+      "url": "https://i.pinimg.com/736x/23/d5/2a/23d52a08b8f6fc4a51d3ed9a56a1b49d--on-instagram-sandwiches.jpg",
       "albumId": 4
     },
     {
       "id": 25,
-      "name": "veiw",
-      "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/63/d5/0e/nice-view.jpg",
+      "name": "Trippy Pink Floyd",
+      "url": "http://shared.frenys.com/assets/196978793669196/6088518-Trippy.jpg",
       "albumId": 5
     },
     {
       "id": 26,
-      "name": "kauai",
-      "url": "http://hawaii.kauai.com/blog/wp-content/uploads/2012/01/Kauai-017.jpg",
+      "name": "Paisley",
+      "url": "https://wallpapercave.com/wp/qW2bBF7.jpg",
       "albumId": 5
     },
     {
       "id": 27,
-      "name": "trinidad",
-      "url": "http://www.beach-on-map.com/img/8/trinidad-and-tobago-trinidad-maracas-bay-beach-palms.jpg",
-      "albumId": 5
-    },
-    {
-      "id": 28,
-      "name": "bridge",
-      "url": "https://pixabay.com/static/uploads/photo/2015/11/07/11/37/golden-gate-bridge-1031321_960_720.jpg",
-      "albumId": 5
-    },
-    {
-      "id": 29,
-      "name": "pb",
-      "url": "https://s3.amazonaws.com/citybuzz/2015/11/pacific-beach-san-diego-city/pacific-beach-san-diego-3.jpg",
-      "albumId": 5
-    },
-    {
-      "id": 30,
-      "name": "venice",
-      "url": "http://tamesoperadora.com/wp-content/uploads/2015/08/Venice-Italy-city-buildings-sea-boat-canal-sky-clouds_2560x1440.jpg",
+      "name": "Alice",
+      "url": "http://www.alice-in-wonderland.net/wp-content/uploads/1book24.jpg",
       "albumId": 5
     },
     {
       "id": 31,
-      "name": "boston",
-      "url": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2014/02/03/BostonGlobe.com/Metro/Images/ed59cf5ce57844b383357ef781d21d37-ed59cf5ce57844b383357ef781d21d37-0.jpg",
+      "name": "Magical Mystery Tour Set",
+      "url": "http://img.wennermedia.com/featured-promo-724/rs-beatles-sgt-pepper-28f60562-4c12-4eaa-970d-271ebb3291b0.jpg",
       "albumId": 6
     },
     {
       "id": 32,
-      "name": "vegas",
-      "url": "http://www.vegasnews.com/wp-content/uploads/mpiEKP_09_27_15_LIB_brandonkillers_day3_kabik-10-588.jpg",
+      "name": "Magical Mystery Tour Release",
+      "url": "http://www.billboard.com/files/media/beatles-sgt-peppers-07-billboard-1548.jpg",
       "albumId": 6
     },
     {
       "id": 33,
-      "name": "killers",
-      "url": "https://s-media-cache-ak0.pinimg.com/originals/57/93/98/579398081a90a0fc388712bc970a36eb.jpg",
+      "name": "1965 Shea Stadium",
+      "url": "https://pmcvariety.files.wordpress.com/2016/09/the-beatles-shea-stadium.jpg?w=1000&h=562&crop=1",
       "albumId": 6
     },
     {
       "id": 34,
-      "name": "roast",
-      "url": "http://media.gettyimages.com/photos/hot-hot-heat-during-the-1067-kroq-weenie-roast-concert-2005-show-at-picture-id105714353?s=594x594",
+      "name": "1968",
+      "url": "https://www.beatlesbible.com/wp/media/670519-beatles-sgt-pepper-launch-party_01.jpg",
       "albumId": 6
     },
     {
       "id": 35,
-      "name": "umf",
-      "url": "https://umfworldwide.com/wp-content/uploads/2016/09/japan-rukes-news.jpg",
+      "name": "Lennon's Ashton",
+      "url": "https://www.beatlesbible.com/wp/media/690409_16.jpg",
       "albumId": 6
-    },
-    {
-      "id": 36,
-      "name": "",
-      "url": "http://thekey.xpn.org/aatk/files/2012/08/johnlegend.jpg",
-      "albumId": 6
-    },
-    {
-      "name": "Husky",
-      "url": "http://res.cloudinary.com/the-iron-yard/image/upload/v1478109208/grqgvwmays0muz7mtdno.jpg",
-      "albumId": 4,
-      "id": 40
-    },
-    {
-      "name": "Husky 2",
-      "url": "http://res.cloudinary.com/the-iron-yard/image/upload/v1478109265/v8nn0ydeynzg0gkwlbjx.jpg",
-      "albumId": 4,
-      "id": 41
     }
   ]
 }

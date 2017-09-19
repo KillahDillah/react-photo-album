@@ -52,16 +52,26 @@ p {
 .album-list {
   margin:30px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .album-cover {
   list-style-type: none;
+  margin:30px;
 }
 
 .album-cover img {
   height: 200px;
   width: 200px;
+}
+.album-cover a{
+  text-decoration-line: none;
+  color: black;
+}
+
+.album-cover a:hover{
+  color: lightblue;
 }
 
 .left-nav {
@@ -94,7 +104,10 @@ p {
 }
 
 .photo-tab {
-  border: 1px solid green;
+  border: 1px solid white;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .photo-tab a {
@@ -130,4 +143,10 @@ button a {
 
 .photo-box {
   border: 1px solid black;
+}
+.nav {
+  padding-left:0;
+  margin: auto;
+  margin-left: 0px;
+  margin-right: 0px;
 }
